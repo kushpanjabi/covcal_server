@@ -43,7 +43,7 @@ describe('PUT /sites/:id test', () => {
     it('should return status 200', () => {
       return supertest(app)
       .put('/sites/26')
-      .send({"name":"102th St Site", "location":"Van Nuys, CA", "price_range": 3})
+      .send({"name":"100th St Site", "location":"Van Nuys, CA", "price_range": 3})
       .expect(200)
     });
   });
