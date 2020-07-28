@@ -8,9 +8,9 @@ As LA County coronavirus cases surge, many people want to get tested before/afte
 http://covcal-la.herokuapp.com/
 
 ## Screenshots of App
-![Screenshot of Landing Page](./client/screenshots/ss-lp.png)
-![Screenshot of App Page 1](./client/screenshots/ss-app11.png)
-![Screenshot of App Page 2](./client/screenshots/ss-app22.png)
+![Screenshot of Landing Page](./server/screenshots/ss-lp.png)
+![Screenshot of App Page 1](./server/screenshots/ss-app11.png)
+![Screenshot of App Page 2](./server/screenshots/ss-app22.png)
 
 ## API Endpoints
 
